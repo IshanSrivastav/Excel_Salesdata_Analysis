@@ -26,7 +26,7 @@ The **Bakery Sales Data Analysis Dashboard** helps in visualizing sales performa
 
 1. **Download the Repository**: Clone this repository to access the data and dashboard.
    ```bash
-   git clone https://github.com/yourusername/Bakery-Sales-Data-Analysis-Dashboard.git
+   git clone https://github.com/IshanSrivastav/Excel_Salesdata_Analysis.git
     ```
 2. **Open the Excel File**: Open `SalesData.xlsx` in Excel to explore the data and dashboard.
 
